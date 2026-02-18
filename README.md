@@ -82,8 +82,6 @@ Open: http://localhost:80
 
 ## Run Locally
 
-Clone Repo: git clone
-https://github.com/abhijitjadhav1998/Synthetic_Media_Identification_Using_AI.git
 
 Create Environment: python -m venv venv
 
